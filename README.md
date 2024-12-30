@@ -32,7 +32,7 @@ This repository contains three mini-projects built while learning Django REST Fr
 
 1. Clone the repository:
 ```bash
-git clone 
+git clone https://github.com/ManiSetharasipalli/Django_for_apis.git
 cd django-api-projects
 ```
 
